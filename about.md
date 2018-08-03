@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the platform
+subtitle: Why you'd want to use our services
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The Université de Montréal structural biology platform offers to academic and industrial researchers the possibility to access the following techniques and equipments:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* Three NMR spectrometers, including a 700 MHz magnet and 600 MHz magnet equiped with a cryo-probe.
+* SAXS instrument powered by a galllium rich alloy metal-jet X-ray source, with automated sample loadeing capable of high-throughput screening.
+* SEC-MALS
+* Computers
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In addition, several other instruments design for studying the biophysical properties of biomolecules are available upon request.
