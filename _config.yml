@@ -6,12 +6,12 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 
 # Dev
-url: "http://localhost:4000"
-baseurl: ""
+# url: "http://localhost:4000"
+# baseurl: ""
 
 # Dev level 2
-# url: "http://airen.bcm.umontreal.ca"
-# baseurl: "/biostruct"
+url: "http://airen.bcm.umontreal.ca"
+baseurl: "/biostruct"
 
 # Prod
 # url: ""
