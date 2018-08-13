@@ -24,7 +24,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Structural Biology Platform
+title: Structural Biology Platform at Université de Montréal
 
 # Short description of your site
 description: The Structural Biology Platform at Université de Montréal.
@@ -39,7 +39,7 @@ navbar-links:
   Scheduling:
     - NMR: "scheduling_nmr"
     - SAXS: "scheduling_saxs"
-  News: "news"
+  News: ""
   # Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
@@ -51,7 +51,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo.jpg"
+# avatar: "/img/logo.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
