@@ -36,6 +36,9 @@ navbar-links:
   About: "about"
   NMR: "nmr"
   SAXS: "saxs"
+  Scheduling:
+    - NMR: "scheduling_nmr"
+    - SAXS: "scheduling_saxs"
   News: "news"
   # Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
